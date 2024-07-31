@@ -1,0 +1,37 @@
+[
+    {
+        "idUsuario": "gacu",
+        "contraseña": "aaabbb",
+        "apellido": "Cardenas"
+    },
+    {
+        "idUsuario": "sbm",
+        "contraseña": "bbbccc",
+        "apellido": "Bosco"
+    },
+    {
+        "idUsuario": "ccb",
+        "contraseña": "cccddd",
+        "apellido": "Castro"
+    },
+    {
+        "idUsuario": "rmmp",
+        "contraseña": "dddeee",
+        "apellido": "Mora"
+    },
+    {
+        "idUsuario": "epmp",
+        "contraseña": "eeefff",
+        "apellido": "Puente"
+    },
+    {
+        "idUsuario": "wmu",
+        "contraseña": "fffggg",
+        "apellido": "Menendez"
+    },
+    {
+        "idUsuario": "gabm",
+        "contraseña": "ggghhh",
+        "apellido": "Benito"
+    }
+]
